@@ -1,0 +1,29 @@
+.nav {
+    background-color: #4a4a4a; 
+    width: 1500px;
+    height: 60px; 
+    text-align: center;
+    border-radius: 15px;
+    color: white; 
+    font-size: 20px; 
+    font-family: "Arial", sans-serif;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed; 
+    top: 0;
+    z-index: 1000;
+}
+
+.nav a {
+    text-decoration: none; 
+    color: #add8e6; 
+    margin: 0 15px;
+    transition: color 0.3s ease, transform 0.3s ease; 
+}
+
+.nav a:hover {
+    color: #ffffff; 
+    transform: scale(1.1); 
+}

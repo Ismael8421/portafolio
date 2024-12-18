@@ -1,0 +1,40 @@
+.fondo{
+    background-color: #90ACE0;
+    height: 675px;
+    width: 1500px;
+    border-radius: 15px;
+}
+.foto{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    position: relative;
+    left: 625px;
+    top: 60px;
+}
+.nombre{
+    position: relative;
+    top: 65px;
+    text-align: center;
+    color: #615640;
+    font-size: 35px;
+    font-family: monospace;
+}
+.sbr{
+    text-align: center;
+    color: #615640;
+    position: relative;
+    top: 35px;
+    font-size: 30px;
+    font-family: monospace;
+}
+.txt{
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #1A2436;
+    font-size: 40px;
+    position: relative;
+    top: 20px;
+    font-family: monospace;
+}

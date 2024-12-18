@@ -1,0 +1,15 @@
+.fondo{
+    background-color: #90ACE0;
+    height: 675px;
+    width: 1500px;
+    border-radius: 15px;
+}
+.txt{
+    padding-top: 50px;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #1A2436;
+    font-size: 60px;
+    font-family: monospace;
+}

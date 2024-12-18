@@ -1,0 +1,24 @@
+.fondo{
+    background-color: #90ACE0;
+    height: 675px;
+    width: 1500px;
+    border-radius: 15px;
+}
+.ms{
+    position: absolute;
+    top: 80px;
+    left: 680px;
+    font-size: 35px;
+    color: #615640;
+    font-family: monospace;
+}
+.txt{
+    font-size: 40px;
+    color: #1A2436;
+    position: relative;
+    top: 100px;
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: monospace;
+}
